@@ -1,0 +1,104 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.fb
+{
+background-color: black;
+width: 100%;
+height: 50vh;
+position: absolute;
+margin-top: 160%;
+}
+
+.footh
+{
+    color: white;
+
+}
+
+.col1
+{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.col1 p 
+{
+    color: white;
+    margin-top: 2%;
+}
+
+.social
+{
+    margin-top: 3%;
+}
+
+.social2
+{
+    margin-left: 3%;
+}
+
+.ss2
+{
+margin-left: 39%;
+margin-top: -15%;
+}
+
+
+.ss2h
+{
+    color: white;
+    font-size: 30px;
+}
+
+.in
+{
+    width: 40%;
+    margin-top: 2%;
+    height: 8vh;
+    border-radius: 10px;
+}
+
+.sidebar
+{
+    color: white;
+    margin-left: 80%;
+    margin-top: -7.8%;
+    display: inline-block;
+}
+
+
+.sidebar h3{
+    font-size: 30px;
+    margin-top: -2%;
+}
+
+.sidebar ul 
+{
+    margin-top: 5%;
+}
+
+
+.pe15
+{
+    background-color: white;
+    width: 10%;
+    height: 0.5vh;
+    border-radius: 10px;
+    margin-left: 5%;
+}
+
+.flast
+{
+    color: white;
+    margin-left: 45%;
+    margin-top: 3.5%;
+}
+
+.flast h5
+{
+margin-left: 2%;
+}

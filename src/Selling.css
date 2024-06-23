@@ -1,0 +1,156 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.b5
+{
+    background-color: white;
+    width: 100%;
+   height: 100vh;
+    position: absolute;
+    margin-top: 29%;
+}
+
+.section
+{
+    margin-left: 45%;
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    column-gap: 1%;
+}
+
+.pe1
+{
+    width: 5%;
+    height: 0.5vh;
+    background-color: black;
+    border-radius: 10px;
+    margin-left: -5%;
+}
+
+.pe2
+{
+    width: 5%;
+    height: 0.5vh;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 1.5%;
+}
+
+.setbtns
+{
+    display: flex;
+    align-items: center;
+    margin-left: 38%;
+    margin-top: 5%;
+    column-gap: 5%;
+}
+
+.bm
+{
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+}
+
+.ba
+{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.75);
+    padding: 10px 20px;
+    
+}
+
+.c1
+{
+    width: 25%;
+    background-color: white;
+    margin-left: 5%;
+    margin-top: 5%;
+    border: 4px solid rgba(222, 222, 222, 1);
+    border-radius: 10px;
+    height: 60vh;
+}
+
+.img15
+{
+    margin-left: 1%;
+    width: 90%;
+    margin-top: 25%;
+}
+
+.btnn
+{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-left: -22.8%;
+    padding: 5px 10px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: 3%;
+}
+
+.n1
+{
+    color: black;
+    font-size: 20px;
+    margin-top: -10%;
+    margin-left: 2%;
+}
+
+
+.pp
+{
+    display: flex;
+    align-items: center;
+    margin-top: 5%;
+    margin-left: 1%;
+}
+
+.pp h5{
+    margin-left: 2%;
+}
+
+
+.dot
+{
+    width: 10%;
+    margin-left: 45%;
+}
+
+.up
+{
+    position: absolute;
+    background-color: black;
+    margin-left: 21.7%;
+}
+
+.pads
+{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-left: 5%;
+    position: absolute;
+}
+
+.pads2
+{
+    
+    margin-top: 85%;
+    display: flex;
+    align-items: center;
+    column-gap: 3%;
+   margin-left: 5%;
+    position: absolute;
+    background-color: white;
+    margin-top: 79.5%;
+}
+
+
+
+

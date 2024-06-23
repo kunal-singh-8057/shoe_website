@@ -1,0 +1,82 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.bann
+{
+    width: 100%;
+    height: 65vh;
+    margin-top: -3%;
+    background-color: rgba(253, 139, 146, 1);
+    position: absolute;
+    border-radius: 20px;
+}
+
+.sl
+{
+    
+    color: rgba(255, 255, 255, 0.1);
+    font-size: 300px;
+    margin-top: 12%;
+    position: relative;
+}
+
+.legs
+{
+    position: absolute;
+    margin-top: -52%;
+    width: 30%;
+}
+
+.bannertext
+{
+    margin-top: -35%;
+    margin-left: 62%;
+    font-size: 45px;
+    color: white;
+}
+
+.bannerpara
+{
+    color: white;
+    margin-left: 63%;
+    margin-top: 2%;
+}
+
+.bannerbtn
+{
+    background-color: white;
+    color: rgba(253, 139, 146, 1);
+    padding: 15px 35px;
+    border: none;
+    margin-left: 63%;
+    margin-top: 2%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sets
+{
+    margin-left: 57%;
+}
+
+.arrows
+{
+    position: absolute;
+    margin-top: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.left
+{
+    color: white;
+    transform: rotate(180deg);
+}
+
+.right
+{
+    margin-left: 2150%;
+}
