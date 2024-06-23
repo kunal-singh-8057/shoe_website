@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shoe_website/static/css/main.ac312a0d.css",
+    "main.js": "/shoe_website/static/js/main.33245b38.js",
+    "static/js/453.b9d05f5c.chunk.js": "/shoe_website/static/js/453.b9d05f5c.chunk.js",
+    "static/media/img13.png": "/shoe_website/static/media/img13.f42606dbd299eaa4834a.png",
+    "static/media/img1.png": "/shoe_website/static/media/img1.e8dcbe0ea59e615aaf99.png",
+    "static/media/img15.png": "/shoe_website/static/media/img15.8597983a455ae4ef0dc6.png",
+    "static/media/img16.png": "/shoe_website/static/media/img16.7e6505d93a1510fbec48.png",
+    "static/media/img20.png": "/shoe_website/static/media/img20.fa5022c1538d07598403.png",
+    "static/media/img19.png": "/shoe_website/static/media/img19.bd86ddc8e0b3478515b4.png",
+    "static/media/img18.png": "/shoe_website/static/media/img18.3a67f8dc61b80e09cb4e.png",
+    "static/media/img17.png": "/shoe_website/static/media/img17.753339386248ce4dfa55.png",
+    "static/media/img22.png": "/shoe_website/static/media/img22.3b2d85f52f878e911397.png",
+    "static/media/img14.png": "/shoe_website/static/media/img14.7e87b33c4b03f2cbda39.png",
+    "static/media/img21.png": "/shoe_website/static/media/img21.85420092d4bd4e8be502.png",
+    "static/media/img9.png": "/shoe_website/static/media/img9.45ff0d03a9c3f8fdfff7.png",
+    "static/media/img8.png": "/shoe_website/static/media/img8.7e5fcf24bec750159230.png",
+    "static/media/img10.png": "/shoe_website/static/media/img10.af79bc1a363c67c0b1dc.png",
+    "index.html": "/shoe_website/index.html",
+    "main.ac312a0d.css.map": "/shoe_website/static/css/main.ac312a0d.css.map",
+    "main.33245b38.js.map": "/shoe_website/static/js/main.33245b38.js.map",
+    "453.b9d05f5c.chunk.js.map": "/shoe_website/static/js/453.b9d05f5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac312a0d.css",
+    "static/js/main.33245b38.js"
+  ]
+}
